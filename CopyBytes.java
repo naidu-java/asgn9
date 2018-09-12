@@ -1,5 +1,5 @@
 import java.io.*;
-public class CopyFiles
+public class CopyBytes
 {
 	public static void main(String args[]) throws IOException
 	{
